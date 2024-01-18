@@ -10,7 +10,7 @@ function App() {
         <header className="w-full bg-slate-500">
           <Navigation />
         </header>
-        <main>
+        <main className="bg-black min-h-screen">
           <Pages />
         </main>
         </ProductsProvider>
